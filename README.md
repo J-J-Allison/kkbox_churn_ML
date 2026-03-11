@@ -164,10 +164,6 @@ Agrégation streaming de ~30 Go :
 
 ## Résultats
 
-- **OOF AUC** : ~0.96+
-- **OOF LogLoss** : ~0.10
-- **Variance inter-folds** : faible (modèle stable)
-
 Le taux de churn est d'environ **7 %**, ce qui rend les métriques AUC et Précision-Rappel plus informatives que l'accuracy brute.
 
 ## Prédicteurs clés
